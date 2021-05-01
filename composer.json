@@ -14,5 +14,10 @@
             "email": "contact@jaschavanaalst.nl"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Jascha030\\PHPALPX\\": "src/"
+        }
+    }
 }
