@@ -21,5 +21,10 @@
         "psr-4": {
             "Jascha030\\Live\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Jascha030\\Live\\Tests\\": "tests"
+        }
     }
 }
