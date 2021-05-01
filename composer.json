@@ -17,4 +17,10 @@
         "phpunit/phpunit": "^9.5",
         "roave/security-advisories": "dev-latest"
     }
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Jascha030\\Live\\": "src/"
+        }
+    }
 }
