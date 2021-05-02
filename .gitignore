@@ -87,3 +87,5 @@ Temporary Items
 *.sql
 *.sqlite
 
+.php_cs.cache
+.php_cs
